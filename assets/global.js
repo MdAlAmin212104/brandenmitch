@@ -3632,11 +3632,28 @@ class VariantSelects extends HTMLElement {
   }
 
   updateVariantInput() {
+    const variantId = this.currentVariant ? this.currentVariant.id : '';
+
     const productForms = document.querySelectorAll(`#product-form-${this.dataset.section}, #product-form-${this.dataset.section}--alt, #product-form-installment`);
     productForms.forEach((productForm) => {
       const input = productForm.querySelector('input[name="id"]');
-      input.value = this.currentVariant ? this.currentVariant.id : ''
-      input.dispatchEvent(new Event('change', { bubbles: true }));
+      if (input) {
+        input.value = variantId;
+        input.dispatchEvent(new Event('change', { bubbles: true }));
+      }
+
+      // Preorder/Backorder apps often rely on data-variant-id attributes.
+      // Sync them whenever we change variant.
+      productForm.querySelectorAll('[data-variant-id]').forEach((el) => {
+        el.setAttribute('data-variant-id', variantId);
+      });
+    });
+
+    // If there are preorder/backorder add buttons outside of the form, sync them too.
+    const sectionRoot = this.closest('section') || document;
+    sectionRoot.querySelectorAll('[data-variant-id]').forEach((el) => {
+      if (el.closest(`#product-form-${this.dataset.section}, #product-form-${this.dataset.section}--alt`)) return;
+      el.setAttribute('data-variant-id', variantId);
     });
   }
 
@@ -3864,14 +3881,28 @@ class VariantSelects extends HTMLElement {
 
   toggleAddButton(disable = true, text, modifyClass = true) {
     const productForms = document.querySelectorAll(`#product-form-${this.dataset.section}, #product-form-${this.dataset.section}--alt`);
-    const loader = document.querySelector('.loading-overlay__spinner').innerHTML
+
+    const spinnerEl = document.querySelector('.loading-overlay__spinner');
+    const loader = spinnerEl ? spinnerEl.innerHTML : '';
+
     productForms.forEach((productForm) => {
       const addButton = productForm.querySelector('[name="add"]');
       if (!addButton) return;
+
       let priceContent = ''
       let buttonIcon = ''
-      if(this.buttonIcon) buttonIcon = document.querySelector('.product-form__buttons-icon').innerHTML
-      if(this.priceInsideButton) priceContent = document.getElementById(`price-${this.dataset.section}`).querySelector('.price').innerHTML
+
+      if(this.buttonIcon) {
+        const iconEl = document.querySelector('.product-form__buttons-icon');
+        buttonIcon = iconEl ? iconEl.innerHTML : '';
+      }
+
+      if(this.priceInsideButton) {
+        const priceContainer = document.getElementById(`price-${this.dataset.section}`);
+        const priceEl = priceContainer ? priceContainer.querySelector('.price') : null;
+        priceContent = priceEl ? priceEl.innerHTML : '';
+      }
+
       if (disable) {
         addButton.setAttribute('disabled', true);
         addButton.setAttribute('data-sold-out', true);
