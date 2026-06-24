@@ -1,0 +1,1916 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "68cfae61-0ab2-4c3d-b51a-004ac5bd258b": {
+      "type": "slideshow-with-media",
+      "blocks": {
+        "video_slide_tU4ngh": {
+          "type": "video_slide",
+          "settings": {
+            "block_link": "",
+            "block_target_blank": false,
+            "video_load": "shopify://files/videos/drop video.mp4",
+            "fill_content": false,
+            "overlay_color": "#000000",
+            "overlay_gradient": "linear-gradient(212deg, rgba(0, 0, 0, 0) 4%, rgba(0, 0, 0, 1) 100%)",
+            "video_overlay_opacity": 100,
+            "center_text": true,
+            "vertical_content_position": "center",
+            "horizontal_content_position": "center",
+            "narrow_content": true,
+            "context_image_width": 112,
+            "image_ratio": "portrait",
+            "context_image_radius": "2000px 2000px 0 0",
+            "context_image_link": "",
+            "context_image_target_blank": false,
+            "subheading": "",
+            "heading": "",
+            "text": "",
+            "dim_text": true,
+            "button_label_1": "",
+            "button_link_1": "#more",
+            "target_blank_1": false,
+            "button_style_1": "solid",
+            "button_label_2": "",
+            "button_link_2": "",
+            "target_blank_2": false,
+            "button_style_2": "outlined",
+            "countdown_enable": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_expiration_action": "hide_timer",
+            "countdown_complete_message": "",
+            "countdown_text": "base",
+            "countdown_text_size": "heading_m",
+            "countdown_text_color": "#000000",
+            "countdown_show_background": true,
+            "countdown_background_color": "#e8e8e8",
+            "countdown_background_gradient": "linear-gradient(180deg, rgba(235, 235, 235, 1), rgba(255, 255, 255, 1) 100%)",
+            "countdown_corner_radius": 2,
+            "countdown_show_outline": true,
+            "countdown_outline_color": "#dcdcdc",
+            "countdown_show_labels": true,
+            "countdown_labels_color": "#565656",
+            "countdown_enable_animation": true,
+            "subheading_size": "default",
+            "subheading_tag": "p",
+            "heading_size": "heading_l_uppercase",
+            "heading_tag": "h1",
+            "main_text_size": "default"
+          }
+        },
+        "template--18483371475218__68cfae61-0ab2-4c3d-b51a-004ac5bd258b-1681990871ddb39b7e-0": {
+          "type": "image_slide",
+          "disabled": true,
+          "settings": {
+            "block_link": "",
+            "block_target_blank": false,
+            "fill_content": false,
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 35,
+            "center_text": false,
+            "vertical_content_position": "end",
+            "horizontal_content_position": "flex-start",
+            "narrow_content": true,
+            "context_image_width": 120,
+            "image_ratio": "original",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_image_target_blank": false,
+            "subheading": "By Irina Dzhus",
+            "heading": "Avant-garde clothing and accessories brand",
+            "text": "",
+            "dim_text": true,
+            "button_label_1": "Scroll down",
+            "button_link_1": "#more",
+            "target_blank_1": false,
+            "button_style_1": "solid",
+            "button_label_2": "View all collections",
+            "button_link_2": "",
+            "target_blank_2": false,
+            "button_style_2": "outlined",
+            "countdown_enable": false,
+            "countdown_end_date": "2024-12-15",
+            "countdown_end_time": "23:59",
+            "countdown_expiration_action": "hide_timer",
+            "countdown_complete_message": "",
+            "countdown_text": "base",
+            "countdown_text_size": "heading_m",
+            "countdown_text_color": "#000000",
+            "countdown_show_background": true,
+            "countdown_background_color": "#e8e8e8",
+            "countdown_background_gradient": "linear-gradient(180deg, rgba(235, 235, 235, 1), rgba(255, 255, 255, 1) 100%)",
+            "countdown_corner_radius": 2,
+            "countdown_show_outline": true,
+            "countdown_outline_color": "#dcdcdc",
+            "countdown_show_labels": true,
+            "countdown_labels_color": "#b9b9b9",
+            "countdown_enable_animation": true,
+            "subheading_size": "default",
+            "subheading_tag": "p",
+            "heading_size": "heading_l_uppercase",
+            "heading_tag": "h2",
+            "main_text_size": "default"
+          }
+        },
+        "template--18483371475218__68cfae61-0ab2-4c3d-b51a-004ac5bd258b-1681990871ddb39b7e-1": {
+          "type": "video_slide",
+          "disabled": true,
+          "settings": {
+            "block_link": "",
+            "block_target_blank": false,
+            "video_load": "shopify://files/videos/blk carp pant grwm ig version-.mov",
+            "fill_content": false,
+            "overlay_color": "#000000",
+            "overlay_gradient": "linear-gradient(212deg, rgba(0, 0, 0, 0) 4%, rgba(0, 0, 0, 1) 100%)",
+            "video_overlay_opacity": 100,
+            "center_text": true,
+            "vertical_content_position": "center",
+            "horizontal_content_position": "center",
+            "narrow_content": true,
+            "context_image_width": 112,
+            "image_ratio": "portrait",
+            "context_image_radius": "2000px 2000px 0 0",
+            "context_image_link": "",
+            "context_image_target_blank": false,
+            "subheading": "by Irina Dzhus",
+            "heading": "Vegetarian-friendly and cruelty-free",
+            "text": "",
+            "dim_text": true,
+            "button_label_1": "",
+            "button_link_1": "#more",
+            "target_blank_1": false,
+            "button_style_1": "solid",
+            "button_label_2": "",
+            "button_link_2": "",
+            "target_blank_2": false,
+            "button_style_2": "outlined",
+            "countdown_enable": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_expiration_action": "hide_timer",
+            "countdown_complete_message": "",
+            "countdown_text": "base",
+            "countdown_text_size": "heading_m",
+            "countdown_text_color": "#000000",
+            "countdown_show_background": true,
+            "countdown_background_color": "#e8e8e8",
+            "countdown_background_gradient": "linear-gradient(180deg, rgba(235, 235, 235, 1), rgba(255, 255, 255, 1) 100%)",
+            "countdown_corner_radius": 2,
+            "countdown_show_outline": true,
+            "countdown_outline_color": "#dcdcdc",
+            "countdown_show_labels": true,
+            "countdown_labels_color": "#565656",
+            "countdown_enable_animation": true,
+            "subheading_size": "default",
+            "subheading_tag": "p",
+            "heading_size": "heading_l_uppercase",
+            "heading_tag": "h1",
+            "main_text_size": "default"
+          }
+        },
+        "f7fa8a5c-07b9-41d3-8b8b-118d9699d050": {
+          "type": "image_slide",
+          "disabled": true,
+          "settings": {
+            "block_link": "",
+            "block_target_blank": false,
+            "fill_content": false,
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 42,
+            "center_text": false,
+            "vertical_content_position": "center",
+            "horizontal_content_position": "flex-end",
+            "narrow_content": true,
+            "context_image_width": 120,
+            "image_ratio": "original",
+            "context_image_radius": "default",
+            "context_image_link": "",
+            "context_image_target_blank": false,
+            "subheading": "",
+            "heading": "The next show starts in 45 days",
+            "text": "",
+            "dim_text": true,
+            "button_label_1": "Find out more",
+            "button_link_1": "#more",
+            "target_blank_1": false,
+            "button_style_1": "solid",
+            "button_label_2": "",
+            "button_link_2": "",
+            "target_blank_2": false,
+            "button_style_2": "outlined",
+            "countdown_enable": false,
+            "countdown_end_date": "2025-06-15",
+            "countdown_end_time": "23:59",
+            "countdown_expiration_action": "hide_timer",
+            "countdown_complete_message": "",
+            "countdown_text": "base",
+            "countdown_text_size": "heading_m",
+            "countdown_text_color": "#000000",
+            "countdown_show_background": true,
+            "countdown_background_color": "#e8e8e8",
+            "countdown_background_gradient": "linear-gradient(180deg, rgba(235, 235, 235, 1), rgba(255, 255, 255, 1) 100%)",
+            "countdown_corner_radius": 2,
+            "countdown_show_outline": true,
+            "countdown_outline_color": "#dcdcdc",
+            "countdown_show_labels": true,
+            "countdown_labels_color": "#cecece",
+            "countdown_enable_animation": true,
+            "subheading_size": "default",
+            "subheading_tag": "p",
+            "heading_size": "heading_l_uppercase",
+            "heading_tag": "h2",
+            "main_text_size": "default"
+          }
+        }
+      },
+      "block_order": [
+        "video_slide_tU4ngh",
+        "template--18483371475218__68cfae61-0ab2-4c3d-b51a-004ac5bd258b-1681990871ddb39b7e-0",
+        "template--18483371475218__68cfae61-0ab2-4c3d-b51a-004ac5bd258b-1681990871ddb39b7e-1",
+        "f7fa8a5c-07b9-41d3-8b8b-118d9699d050"
+      ],
+      "settings": {
+        "desktop_height": 100,
+        "mobile_height": 75,
+        "section_width": "overlap",
+        "controls": "arrows_with_numbers",
+        "fill_controls": false,
+        "enable_autoplay": true,
+        "autoplay_speed": 5,
+        "color_type": "invert",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "5cae6c60-fc7b-4571-8ec1-8872eabf4902": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_AH8ry8": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "year of the outlaw",
+            "subheading_size": "default",
+            "subheading_tag": "p"
+          }
+        },
+        "countdown_timer_WYexxa": {
+          "type": "countdown_timer",
+          "settings": {
+            "countdown_end_date": "2025-07-11",
+            "countdown_end_time": "23:59",
+            "countdown_expiration_action": "hide_timer",
+            "countdown_complete_message": "",
+            "countdown_text": "base",
+            "countdown_text_size": "heading_m",
+            "countdown_text_color": "#000000",
+            "countdown_show_background": true,
+            "countdown_background_color": "#e8e8e8",
+            "countdown_background_gradient": "linear-gradient(180deg, rgba(235, 235, 235, 1), rgba(255, 255, 255, 1) 100%)",
+            "countdown_corner_radius": 2,
+            "countdown_show_outline": true,
+            "countdown_outline_color": "#dcdcdc",
+            "countdown_show_labels": true,
+            "countdown_labels_color": "#565656",
+            "countdown_enable_animation": true
+          }
+        },
+        "heading_pykEJE": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE OUTLAW FORM 08 COLLECTION IS LIVE.",
+            "heading_size": "heading_m_uppercase",
+            "heading_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AH8ry8",
+        "countdown_timer_WYexxa",
+        "heading_pykEJE"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "narrow",
+        "center_text": true,
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": -76,
+        "desktop_padding_bottom": -76,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "featured_collection_tabs_9DJYnT": {
+      "type": "featured-collection-tabs",
+      "blocks": {
+        "collection_f8XAiz": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-arrivals",
+            "custom_tab_heading": "NEW arrivals",
+            "custom_image": "shopify://shop_images/045A9500-REVISED.jpg"
+          }
+        },
+        "collection_aDxBTA": {
+          "type": "collection",
+          "settings": {
+            "collection": "sale-items",
+            "custom_tab_heading": "SALE"
+          }
+        },
+        "collection_aTz4Kw": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "tops",
+            "custom_tab_heading": "New arrivals"
+          }
+        }
+      },
+      "block_order": [
+        "collection_f8XAiz",
+        "collection_aDxBTA",
+        "collection_aTz4Kw"
+      ],
+      "settings": {
+        "items_per_batch": 4,
+        "infinite_scroll": "button",
+        "media_style": "hide",
+        "subheading": "",
+        "heading": "Handpicked Pieces",
+        "tab_heading_size": "default",
+        "center_text": true,
+        "max_columns": "3",
+        "mobile_layout": "2",
+        "image_ratio": "wide",
+        "focal_point": "center center",
+        "image_radius": "default",
+        "subheading_size": "default",
+        "subheading_tag": "h3",
+        "heading_size": "heading_l_uppercase",
+        "heading_tag": "h2",
+        "card_image_ratio": "narrow_portrait",
+        "card_focal_point": "center center",
+        "hover_behavior": "second_image",
+        "show_bullets": true,
+        "enable_add_to_cart": true,
+        "enable_quick_view": true,
+        "price_position": "bottom",
+        "show_vendor": false,
+        "max_product_name_characters": 100,
+        "show_rating": false,
+        "show_short_description": false,
+        "enable_color_pills": false,
+        "show_pickup_availability": false,
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": -80,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "d3c5c5bf-c74f-43c1-81e5-845900b02860": {
+      "type": "icons-with-text",
+      "blocks": {
+        "template--18483371475218__d3c5c5bf-c74f-43c1-81e5-845900b02860-1682084359066b2f79-2": {
+          "type": "item",
+          "settings": {
+            "icon": "planet",
+            "heading": "Worldwide shipping",
+            "text": "",
+            "page": "",
+            "page_content_in_popup": true
+          }
+        },
+        "template--18483371475218__d3c5c5bf-c74f-43c1-81e5-845900b02860-1682084359066b2f79-0": {
+          "type": "item",
+          "settings": {
+            "icon": "recycled_symbol",
+            "heading": "We stand for ethical and cruelty-free approach to fashion",
+            "text": "",
+            "page": "",
+            "page_content_in_popup": false
+          }
+        },
+        "template--18483371475218__d3c5c5bf-c74f-43c1-81e5-845900b02860-1682084359066b2f79-1": {
+          "type": "item",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Vegetarian-friendly",
+            "text": "",
+            "page": "",
+            "page_content_in_popup": true
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__d3c5c5bf-c74f-43c1-81e5-845900b02860-1682084359066b2f79-2",
+        "template--18483371475218__d3c5c5bf-c74f-43c1-81e5-845900b02860-1682084359066b2f79-0",
+        "template--18483371475218__d3c5c5bf-c74f-43c1-81e5-845900b02860-1682084359066b2f79-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "desktop_grid_type": "slider",
+        "max_columns": "default",
+        "mobile_layout": "2",
+        "mobile_navigation": "arrows",
+        "center_text": true,
+        "icon_or_image_size": 160,
+        "fill_container": false,
+        "context_icon_radius": "default",
+        "icon_weight": "light",
+        "item_heading_size": "default",
+        "text_size": "default",
+        "dim_text": true,
+        "heading_size": "default",
+        "heading_tag": "h2",
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": -160,
+        "desktop_padding_bottom": -160,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "9e3559d1-7f34-42d8-94b2-719563423cf1": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18483371475218__9e3559d1-7f34-42d8-94b2-719563423cf1-16820855947cfaf187-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "DZHUS AW23 available for wholesale orders!",
+            "heading_size": "heading_m_uppercase",
+            "heading_tag": "h3"
+          }
+        },
+        "template--18483371475218__9e3559d1-7f34-42d8-94b2-719563423cf1-16820855947cfaf187-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Enquiries: studio@irinadzhus.com</p>",
+            "dim_text": false,
+            "text_size": "default"
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__9e3559d1-7f34-42d8-94b2-719563423cf1-16820855947cfaf187-1",
+        "template--18483371475218__9e3559d1-7f34-42d8-94b2-719563423cf1-16820855947cfaf187-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "content_on_hover": true,
+        "first_image": "shopify://shop_images/045A9029-EDIT_shopify.jpg",
+        "desktop_height": 80,
+        "section_link": "",
+        "target_blank": false,
+        "section_width": "wide",
+        "center_text": true,
+        "vertical_content_position": "end",
+        "horizontal_content_position": "center",
+        "narrow_content": true,
+        "fill_content": false,
+        "overlay_color": "#000000",
+        "overlay_gradient": "",
+        "overlay_opacity": 30,
+        "mobile_height": 60,
+        "content_under_image": true,
+        "only_first_image": false,
+        "color_type": "invert",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "edef0973-dd46-4250-bfde-cef270db9257": {
+      "type": "link-list",
+      "blocks": {
+        "6758c4a6-dbbe-4a5e-b266-1643f2542b3a": {
+          "type": "link",
+          "settings": {
+            "heading": "AW23 Transit",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "template--18483371475218__edef0973-dd46-4250-bfde-cef270db9257-16820647534225674d-0": {
+          "type": "link",
+          "settings": {
+            "heading": "AW22 Pseudo",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "cae37c53-100f-481c-9877-9fd839995935": {
+          "type": "link",
+          "settings": {
+            "heading": "SS22 Physique",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "aac475c2-1b1c-4feb-a384-b9a9b5cba7cc": {
+          "type": "link",
+          "settings": {
+            "heading": "AW21 Surrogate",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "552bc343-f72a-4c51-9ab5-54e280d75d9a": {
+          "type": "link",
+          "disabled": true,
+          "settings": {
+            "heading": "SS21 Ecopack",
+            "link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "6758c4a6-dbbe-4a5e-b266-1643f2542b3a",
+        "template--18483371475218__edef0973-dd46-4250-bfde-cef270db9257-16820647534225674d-0",
+        "cae37c53-100f-481c-9877-9fd839995935",
+        "aac475c2-1b1c-4feb-a384-b9a9b5cba7cc",
+        "552bc343-f72a-4c51-9ab5-54e280d75d9a"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Recent Seasons",
+        "subheading_size": "default",
+        "subheading_tag": "h4",
+        "item_heading_size": "heading_l_uppercase",
+        "button_label": "Discover all seasons",
+        "button_link": "",
+        "target_blank": false,
+        "button_style": "solid",
+        "image_width": 30,
+        "image_ratio": "original",
+        "image_radius": "default",
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "fdc8da2f-7c88-42ff-b437-154def46e776": {
+      "type": "collection-with-products",
+      "settings": {
+        "sticky_offset": 80,
+        "subheading": "Spring arrivals",
+        "heading": "drop Shoulder thermals",
+        "text": "",
+        "button_label": "Shop all items on sale",
+        "button_style": "outlined",
+        "collection": "thermals",
+        "swap_image": true,
+        "hide_image_on_mobile": false,
+        "center_text": false,
+        "products_to_show": 8,
+        "mobile_layout": "2",
+        "mobile_navigation": "arrows",
+        "custom_image": "shopify://shop_images/BA8A1249-EDIT.jpg",
+        "video_load": "shopify://files/videos/BH@4567-BLUELab.mp4",
+        "image_ratio": "original",
+        "focal_point": "center center",
+        "image_radius": "default",
+        "subheading_size": "default",
+        "subheading_tag": "h4",
+        "heading_size": "heading_xl_uppercase",
+        "heading_tag": "h3",
+        "text_size": "default",
+        "card_image_ratio": "narrow_portrait",
+        "card_focal_point": "center center",
+        "hover_behavior": "second_image",
+        "show_bullets": true,
+        "enable_add_to_cart": true,
+        "enable_quick_view": true,
+        "price_position": "bottom",
+        "show_vendor": false,
+        "max_product_name_characters": 100,
+        "show_rating": false,
+        "show_short_description": false,
+        "enable_color_pills": false,
+        "show_pickup_availability": false,
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "c4ef2517-cae2-4faa-81fe-7b0959462104": {
+      "type": "banner-gallery",
+      "blocks": {
+        "04a820a1-b938-4381-bd24-d39684060faf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/045A8515-REVISED-COMPRESSED.jpg",
+            "heading": "Outerwear",
+            "link": "shopify://collections/outerwear",
+            "target_blank": false
+          }
+        },
+        "3809bad8-b9f1-4162-be37-54c220ff333e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/045A7257-EDIT-1_shopify.jpg",
+            "heading": "JEANS",
+            "link": "shopify://collections/carpenter-pants",
+            "target_blank": false
+          }
+        },
+        "27f0cd7e-87ce-44eb-b57c-43000bcff519": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/OATMEAL_SWEATPANT_FRONT.jpg",
+            "heading": "sweat pants",
+            "link": "shopify://collections/sweats",
+            "target_blank": false
+          }
+        },
+        "4b323fdd-c9a0-4b34-8ba3-2ff730ccbdd0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BLACK_LS_FRONT.jpg",
+            "heading": "Shirts",
+            "link": "shopify://collections/shirts",
+            "target_blank": false
+          }
+        },
+        "50ab4f5d-dda6-4871-a0ab-1e4f939711fb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOSELOOPCHAIN.jpg",
+            "heading": "jewelry",
+            "link": "shopify://collections/chains",
+            "target_blank": false
+          }
+        },
+        "fd3acd2a-6e49-4b4c-b10d-8fc86656aecf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/045A7727-REVISED_shopify.jpg",
+            "heading": "HATS",
+            "link": "shopify://collections/hats",
+            "target_blank": false
+          }
+        },
+        "7198fd7b-42c4-41da-8332-bd9b01aa7869": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "heading": "Suits",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "template--18483371475218__c4ef2517-cae2-4faa-81fe-7b0959462104-16819789197a7d0685-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "heading": "Tops",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "dc1e47ed-c6cf-4b7c-b95e-4bc6d2288fc7": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "heading": "Unisex fit",
+            "link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "04a820a1-b938-4381-bd24-d39684060faf",
+        "3809bad8-b9f1-4162-be37-54c220ff333e",
+        "27f0cd7e-87ce-44eb-b57c-43000bcff519",
+        "4b323fdd-c9a0-4b34-8ba3-2ff730ccbdd0",
+        "50ab4f5d-dda6-4871-a0ab-1e4f939711fb",
+        "fd3acd2a-6e49-4b4c-b10d-8fc86656aecf",
+        "7198fd7b-42c4-41da-8332-bd9b01aa7869",
+        "template--18483371475218__c4ef2517-cae2-4faa-81fe-7b0959462104-16819789197a7d0685-1",
+        "dc1e47ed-c6cf-4b7c-b95e-4bc6d2288fc7"
+      ],
+      "settings": {
+        "content_on_hover": true,
+        "heading": "",
+        "banner_heading_size": "default",
+        "desktop_grid_type": "5",
+        "mobile_layout": "2",
+        "mobile_navigation": "scrollbar",
+        "center_text": true,
+        "vertical_content_position": "end",
+        "image_ratio": "square",
+        "overlay_color": "#000000",
+        "overlay_gradient": "",
+        "overlay_opacity": 20,
+        "image_radius": "default",
+        "heading_size": "default",
+        "heading_tag": "h3",
+        "color_type": "invert-content",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": -84,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": -4
+      }
+    },
+    "6bcc1286-4d35-4aa6-abe3-e9110505e954": {
+      "type": "media-with-text",
+      "blocks": {
+        "e7611b85-767a-4c06-bbaf-9c539d779869": {
+          "type": "context_image",
+          "settings": {
+            "context_image_width": 248,
+            "context_image_ratio": "portrait",
+            "context_image_radius": "2000px 2000px 0 0",
+            "context_image_link": "",
+            "context_target_blank": false
+          }
+        },
+        "template--18483371475218__6bcc1286-4d35-4aa6-abe3-e9110505e954-168192016032673423-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Irina Dzhus is a Ukrainian fashion stylist and a makeup artist with a 16-year experience of collaboration with apparel and cosmetics brands, celebrities and magazines. Video by Gian Meinecke.</p>",
+            "dim_text": true,
+            "text_size": "default"
+          }
+        },
+        "template--18483371475218__6bcc1286-4d35-4aa6-abe3-e9110505e954-168192016032673423-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "About",
+            "button_link": "",
+            "target_blank": false,
+            "button_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "e7611b85-767a-4c06-bbaf-9c539d779869",
+        "template--18483371475218__6bcc1286-4d35-4aa6-abe3-e9110505e954-168192016032673423-1",
+        "template--18483371475218__6bcc1286-4d35-4aa6-abe3-e9110505e954-168192016032673423-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "link": "",
+        "target_blank": false,
+        "video_focal_point": "center center",
+        "section_width": "wide",
+        "swap_media": false,
+        "media_size": "half",
+        "media_ratio": "portrait",
+        "narrow_content": true,
+        "vertical_text_alignment": "center",
+        "horizontal_text_alignment": "center",
+        "color_type": "custom",
+        "background_color": "#1d1d1d",
+        "text_color": "#ffffff",
+        "fill_section": false,
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "06ae9193-80ef-4180-b3f2-c37ecc324e20": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "template--19235367747890__06ae9193-80ef-4180-b3f2-c37ecc324e20-16855482853445311c-0": {
+          "type": "text",
+          "settings": {
+            "desktop_text": "motto jacket",
+            "mobile_text": "motto jacket",
+            "text_link": "shopify://products/black-motto-jacket",
+            "target_blank": false
+          }
+        },
+        "eb5bfbaf-b388-4176-b0bb-e55796c8af5a": {
+          "type": "text",
+          "settings": {
+            "desktop_text": "new arrival",
+            "mobile_text": "",
+            "text_link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19235367747890__06ae9193-80ef-4180-b3f2-c37ecc324e20-16855482853445311c-0",
+        "eb5bfbaf-b388-4176-b0bb-e55796c8af5a"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_size": "heading_xl_uppercase",
+        "line_show": "disable",
+        "line_padding": 16,
+        "gap_items": 24,
+        "scroll_direction": "left",
+        "speed": 1.7,
+        "image_ratio": "original",
+        "image_radius": "default",
+        "image_on_hover": false,
+        "hover_image_width": 30,
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "d4817a6d-8f6b-47be-819b-0b80fb3b09e5": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18483371475218__d4817a6d-8f6b-47be-819b-0b80fb3b09e5-16820756329aa8b5da-1": {
+          "type": "title",
+          "settings": {
+            "title_size": "heading_l_uppercase",
+            "heading_tag": "h3"
+          }
+        },
+        "ae301691-2812-432f-a5bd-ba6d1b0565c4": {
+          "type": "subtitle",
+          "disabled": true,
+          "settings": {
+            "subtitle": "",
+            "dim_text": true,
+            "subtitle_size": "body_m_uppercase",
+            "subtitle_tag": "h3"
+          }
+        },
+        "568413dd-d4d1-4c2a-b20d-944778fbc6ff": {
+          "type": "variant_picker",
+          "settings": {
+            "show_label": true,
+            "label_size": "default",
+            "text_size": "default"
+          }
+        },
+        "template--18483371475218__d4817a6d-8f6b-47be-819b-0b80fb3b09e5-16820756329aa8b5da-3": {
+          "type": "price",
+          "settings": {
+            "text_size": "heading_xs",
+            "badge_size": "default",
+            "show_price": true,
+            "show_badges": false,
+            "hide_shipping_note": false
+          }
+        },
+        "template--18483371475218__d4817a6d-8f6b-47be-819b-0b80fb3b09e5-16820756329aa8b5da-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+            "show_label": false,
+            "label_size": "default"
+          }
+        },
+        "312e64b1-1fc0-4fc1-83c3-790ea51308f9": {
+          "type": "subtitle",
+          "disabled": true,
+          "settings": {
+            "subtitle": "",
+            "dim_text": true,
+            "subtitle_size": "default",
+            "subtitle_tag": "h4"
+          }
+        },
+        "template--18483371475218__d4817a6d-8f6b-47be-819b-0b80fb3b09e5-16820756329aa8b5da-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "stretch_buy_buttons": true,
+            "display_in_a_row": false,
+            "price_in_button": true,
+            "compare_price_on_mobile": true,
+            "show_dynamic_checkout": true,
+            "hide_pickup_availability": false
+          }
+        },
+        "3090f7d1-9150-41e4-8029-03620e7d1fc0": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "text_size": "default",
+            "display_collapsible_link": false,
+            "show_only_icons": false
+          }
+        },
+        "bb8c13c6-f0c6-48c5-9209-9308352c5acf": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Packaging",
+            "collapsible_tabs_size": "default",
+            "text": "",
+            "text_size": "default",
+            "icon": "package_closed",
+            "page": ""
+          }
+        },
+        "2f5b5570-ea9c-44d7-93b0-709c7615c06e": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "icon": "ruler",
+            "link_text": "Size chart",
+            "link_size": "default",
+            "text": "",
+            "text_size": "default",
+            "page": ""
+          }
+        },
+        "a458cf10-572f-48d7-9993-fcc281ff7410": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "text_size": "body_l"
+          }
+        },
+        "bee8ee2b-dce6-462b-ace2-d831b7a281a9": {
+          "type": "more_details",
+          "settings": {
+            "button_label": "More details",
+            "link_size": "default"
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__d4817a6d-8f6b-47be-819b-0b80fb3b09e5-16820756329aa8b5da-1",
+        "ae301691-2812-432f-a5bd-ba6d1b0565c4",
+        "568413dd-d4d1-4c2a-b20d-944778fbc6ff",
+        "template--18483371475218__d4817a6d-8f6b-47be-819b-0b80fb3b09e5-16820756329aa8b5da-3",
+        "template--18483371475218__d4817a6d-8f6b-47be-819b-0b80fb3b09e5-16820756329aa8b5da-4",
+        "312e64b1-1fc0-4fc1-83c3-790ea51308f9",
+        "template--18483371475218__d4817a6d-8f6b-47be-819b-0b80fb3b09e5-16820756329aa8b5da-5",
+        "3090f7d1-9150-41e4-8029-03620e7d1fc0",
+        "bb8c13c6-f0c6-48c5-9209-9308352c5acf",
+        "2f5b5570-ea9c-44d7-93b0-709c7615c06e",
+        "a458cf10-572f-48d7-9993-fcc281ff7410",
+        "bee8ee2b-dce6-462b-ace2-d831b7a281a9"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "black-motto-jacket",
+        "enable_sticky_content": true,
+        "sticky_offset": 80,
+        "desktop_gallery_style": "one_column_grid",
+        "thumbnails_image_ratio": "portrait",
+        "desktop_gallery_size": "medium",
+        "swap_position": true,
+        "image_ratio": "original",
+        "focal_point": "top center",
+        "context_image_radius": "default",
+        "organize_images": false,
+        "first_image_instead_of_variant": false,
+        "show_media_attached_to_variant": true,
+        "enable_video_looping": true,
+        "mobile_navigation": "scrollbar",
+        "enable_image_zoom": true,
+        "image_zoom_style": "slideshow",
+        "desktop_width": 55,
+        "mobile_width": 100,
+        "zoom_overlay_opacity": 90,
+        "zoom_image_ratio": "original",
+        "zoom_focal_point": "center center",
+        "show_arrow_in_mobile": false,
+        "enable_slideshow_zoom_in": true,
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "ea073e77-d9d1-4b1a-94e7-c37ae470b85f": {
+      "type": "selected-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Today's selection",
+        "heading_size": "default",
+        "heading_tag": "h3",
+        "product_list": [
+          "example",
+          "duality",
+          "double",
+          "cardboard",
+          "irony",
+          "item",
+          "extract",
+          "statement"
+        ],
+        "desktop_grid_type": "5",
+        "mobile_layout": "2",
+        "mobile_navigation": "arrows",
+        "image_ratio": "narrow_portrait",
+        "focal_point": "center center",
+        "hover_behavior": "second_image",
+        "show_bullets": true,
+        "enable_add_to_cart": true,
+        "enable_quick_view": true,
+        "price_position": "bottom",
+        "show_vendor": false,
+        "max_product_name_characters": 100,
+        "show_rating": true,
+        "show_short_description": false,
+        "enable_color_pills": true,
+        "show_pickup_availability": false,
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "9bbee4ad-8561-47b0-b37c-508b802a5a12": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18483371475218__9bbee4ad-8561-47b0-b37c-508b802a5a12-1681977729052b7c1e-0": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "target_blank": false,
+            "full_block_clickable": false
+          }
+        },
+        "d8d1fe8a-deb4-4e74-b63b-bfed176b3eb6": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "target_blank": false,
+            "full_block_clickable": false
+          }
+        },
+        "78278df8-83c5-4803-9b83-239a467deed9": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "target_blank": false,
+            "full_block_clickable": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__9bbee4ad-8561-47b0-b37c-508b802a5a12-1681977729052b7c1e-0",
+        "d8d1fe8a-deb4-4e74-b63b-bfed176b3eb6",
+        "78278df8-83c5-4803-9b83-239a467deed9"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Photos by Andreas Rentz x Getty Images for Nowadays",
+        "heading": "Highlights from DZHUS AW23 Show at Berlin Fashion Week",
+        "max_columns": "default",
+        "mobile_layout": "2",
+        "enable_masonry_grid": false,
+        "subheading_size": "default",
+        "subheading_tag": "h4",
+        "heading_size": "heading_xl_uppercase",
+        "heading_tag": "h3",
+        "media_ratio": "original",
+        "center_text": false,
+        "title_size": "default",
+        "text_size": "default",
+        "image_radius": "default",
+        "button_style": "outlined",
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "52422145-8171-4f95-b924-6ac4e76ea467": {
+      "type": "logo-slider",
+      "blocks": {
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-0": {
+          "type": "logo",
+          "settings": {
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-1": {
+          "type": "logo",
+          "settings": {
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-2": {
+          "type": "logo",
+          "settings": {
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-3": {
+          "type": "logo",
+          "settings": {
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-4": {
+          "type": "logo",
+          "settings": {
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "01c38a5f-eb9b-4387-bb2f-1c1673c229eb": {
+          "type": "logo",
+          "settings": {
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "81c1e5c5-9219-42b7-b988-4b491fd19935": {
+          "type": "logo",
+          "settings": {
+            "link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-0",
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-1",
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-2",
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-3",
+        "template--18483371475218__52422145-8171-4f95-b924-6ac4e76ea467-1681915370dfe68a19-4",
+        "01c38a5f-eb9b-4387-bb2f-1c1673c229eb",
+        "81c1e5c5-9219-42b7-b988-4b491fd19935"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Featured in",
+        "heading_size": "default",
+        "heading_tag": "h3",
+        "button_label": "",
+        "button_link": "",
+        "target_blank": false,
+        "button_style": "solid",
+        "center_text": true,
+        "desktop_grid_type": "5",
+        "mobile_layout": "2",
+        "mobile_navigation": "arrows",
+        "show_lines": true,
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "984d723c-5932-4d28-bb3a-b6fee5ab626e": {
+      "type": "banner-grid",
+      "blocks": {
+        "template--18483371475218__984d723c-5932-4d28-bb3a-b6fee5ab626e-168198050175fecb1e-3": {
+          "type": "loop_video",
+          "settings": {
+            "link": "",
+            "target_blank": false,
+            "banner_size": "big_square",
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 20,
+            "heading": "Video by Greg Radomsky",
+            "heading_size": "default",
+            "button_label": "Discover",
+            "button_style": "solid",
+            "center_text": true,
+            "vertical_content_position": "center",
+            "narrow_content": true,
+            "color_type": "invert",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "template--18483371475218__984d723c-5932-4d28-bb3a-b6fee5ab626e-168198050175fecb1e-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "target_blank": false,
+            "banner_size": "square",
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 20,
+            "heading": "Image Banner Example",
+            "heading_size": "default",
+            "button_label": "Discover",
+            "button_style": "solid",
+            "center_text": false,
+            "vertical_content_position": "end",
+            "narrow_content": true,
+            "color_type": "invert",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "template--18483371475218__984d723c-5932-4d28-bb3a-b6fee5ab626e-168198050175fecb1e-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "target_blank": false,
+            "banner_size": "horizontal",
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 20,
+            "heading": "Image Banner Example",
+            "heading_size": "default",
+            "button_label": "Discover",
+            "button_style": "solid",
+            "center_text": true,
+            "vertical_content_position": "center",
+            "narrow_content": true,
+            "color_type": "invert",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "template--18483371475218__984d723c-5932-4d28-bb3a-b6fee5ab626e-168198050175fecb1e-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "target_blank": false,
+            "banner_size": "square",
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 20,
+            "heading": "Image Banner Example",
+            "heading_size": "default",
+            "button_label": "Discover",
+            "button_style": "solid",
+            "center_text": true,
+            "vertical_content_position": "center",
+            "narrow_content": true,
+            "color_type": "invert",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "a54b11bc-5d5d-464c-9eb4-fbc1b3070cfa": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "target_blank": false,
+            "banner_size": "square",
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 20,
+            "heading": "Image Banner Example",
+            "heading_size": "default",
+            "button_label": "Discover",
+            "button_style": "solid",
+            "center_text": true,
+            "vertical_content_position": "center",
+            "narrow_content": true,
+            "color_type": "invert",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "9697f165-05b1-4312-8152-54d5695fadc1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "target_blank": false,
+            "banner_size": "square",
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 20,
+            "heading": "Image Banner Example",
+            "heading_size": "default",
+            "button_label": "Discover",
+            "button_style": "solid",
+            "center_text": true,
+            "vertical_content_position": "center",
+            "narrow_content": true,
+            "color_type": "invert",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "b3526728-9523-4213-b268-0429c32863d3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "target_blank": false,
+            "banner_size": "big_square",
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 20,
+            "heading": "Image Banner Example",
+            "heading_size": "default",
+            "button_label": "Discover",
+            "button_style": "solid",
+            "center_text": true,
+            "vertical_content_position": "center",
+            "narrow_content": true,
+            "color_type": "invert",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "75b2a94f-258c-42da-bd01-fdb35e62701f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "target_blank": false,
+            "banner_size": "square",
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 20,
+            "heading": "Image Banner Example",
+            "heading_size": "default",
+            "button_label": "Discover",
+            "button_style": "solid",
+            "center_text": true,
+            "vertical_content_position": "center",
+            "narrow_content": true,
+            "color_type": "invert",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "bc23d91a-60d0-480d-a801-fd22c0591285": {
+          "type": "loop_video",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "target_blank": false,
+            "banner_size": "square",
+            "overlay_color": "#000000",
+            "overlay_gradient": "",
+            "overlay_opacity": 20,
+            "heading": "Video Banner Example",
+            "heading_size": "default",
+            "button_label": "Discover",
+            "button_style": "solid",
+            "center_text": true,
+            "vertical_content_position": "space-between",
+            "narrow_content": true,
+            "color_type": "invert",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__984d723c-5932-4d28-bb3a-b6fee5ab626e-168198050175fecb1e-3",
+        "template--18483371475218__984d723c-5932-4d28-bb3a-b6fee5ab626e-168198050175fecb1e-0",
+        "template--18483371475218__984d723c-5932-4d28-bb3a-b6fee5ab626e-168198050175fecb1e-1",
+        "template--18483371475218__984d723c-5932-4d28-bb3a-b6fee5ab626e-168198050175fecb1e-2",
+        "a54b11bc-5d5d-464c-9eb4-fbc1b3070cfa",
+        "9697f165-05b1-4312-8152-54d5695fadc1",
+        "b3526728-9523-4213-b268-0429c32863d3",
+        "75b2a94f-258c-42da-bd01-fdb35e62701f",
+        "bc23d91a-60d0-480d-a801-fd22c0591285"
+      ],
+      "disabled": true,
+      "settings": {
+        "content_on_hover": true,
+        "grid_gap": 0,
+        "mobile_grid_gap": 4,
+        "section_width": "wide",
+        "image_radius": "default",
+        "color_type": "default",
+        "background_color": "#000000",
+        "desktop_padding_top": -160,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "37246ec4-fa8b-42ce-b51f-c249603127c8": {
+      "type": "featured-products",
+      "blocks": {
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-2": {
+          "type": "product_featured",
+          "settings": {
+            "product": "nylon-black-hat"
+          }
+        },
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-0": {
+          "type": "product_featured",
+          "settings": {
+            "product": "3m-racing-hat"
+          }
+        },
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-1": {
+          "type": "product_featured",
+          "disabled": true,
+          "settings": {
+            "product": "duality"
+          }
+        },
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-3": {
+          "type": "product_featured",
+          "disabled": true,
+          "settings": {
+            "product": "false"
+          }
+        },
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-5": {
+          "type": "product_featured",
+          "disabled": true,
+          "settings": {
+            "product": "hype"
+          }
+        },
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-4": {
+          "type": "product_featured",
+          "disabled": true,
+          "settings": {
+            "product": "faux"
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-2",
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-0",
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-1",
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-3",
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-5",
+        "template--18483371475218__37246ec4-fa8b-42ce-b51f-c249603127c8-1681978030b6b50338-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "sticky_offset": 120,
+        "subheading": "new hats",
+        "heading": "Nylon hats",
+        "text": "",
+        "button_label": "Shop all",
+        "button_link": "shopify://collections/hats",
+        "target_blank": false,
+        "button_style": "solid",
+        "mobile_layout": "2",
+        "mobile_navigation": "arrows",
+        "subheading_size": "default",
+        "subheading_tag": "h4",
+        "heading_size": "heading_l_uppercase",
+        "heading_tag": "h3",
+        "main_text_size": "default",
+        "card_image_ratio": "narrow_portrait",
+        "card_focal_point": "center center",
+        "hover_behavior": "second_image",
+        "show_bullets": true,
+        "enable_add_to_cart": true,
+        "enable_quick_view": true,
+        "price_position": "bottom",
+        "show_vendor": false,
+        "max_product_name_characters": 0,
+        "show_rating": false,
+        "show_short_description": false,
+        "enable_color_pills": false,
+        "show_pickup_availability": false,
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "7ab15088-499a-4db7-aa56-a03b41ab0bad": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18483371475218__7ab15088-499a-4db7-aa56-a03b41ab0bad-168209040566a20da8-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Showcase your image gallery",
+            "heading_size": "heading_l_uppercase",
+            "heading_tag": "h3"
+          }
+        },
+        "41c3f712-b455-47be-9bae-fbc30c0ee29e": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Video by Greg Radomsky</p>",
+            "dim_text": true,
+            "text_size": "default"
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__7ab15088-499a-4db7-aa56-a03b41ab0bad-168209040566a20da8-1",
+        "41c3f712-b455-47be-9bae-fbc30c0ee29e"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "center_text": true,
+        "color_type": "custom",
+        "background_color": "#dadada",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": -160,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": -80
+      }
+    },
+    "image_grid_TpGPdV": {
+      "type": "image-grid",
+      "disabled": true,
+      "settings": {
+        "page": "",
+        "grid_gap": 10,
+        "mobile_grid_gap": 4,
+        "section_width": "wide",
+        "items_in_a_row": 4,
+        "mobile_layout": "2",
+        "image_ratio": "original",
+        "focal_point": "center center",
+        "image_radius": "default",
+        "enable_image_zoom": true,
+        "image_zoom_style": "slideshow",
+        "desktop_width": 60,
+        "mobile_width": 100,
+        "zoom_overlay_opacity": 90,
+        "zoom_image_ratio": "original",
+        "zoom_focal_point": "center center",
+        "show_arrow_in_mobile": false,
+        "enable_slideshow_zoom_in": false,
+        "color_type": "custom",
+        "background_color": "#dadada",
+        "desktop_padding_top": -36,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e": {
+      "type": "featured-blog",
+      "blocks": {
+        "template--18483371475218__c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e-1681977757bd8b8a9e-0": {
+          "type": "title",
+          "settings": {
+            "use_accent_color": false,
+            "title_size": "heading_s_uppercase"
+          }
+        },
+        "template--18483371475218__c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e-1681977757bd8b8a9e-1": {
+          "type": "info",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_number_of_comments": true,
+            "text_size": "default"
+          }
+        },
+        "template--18483371475218__c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e-1681977757bd8b8a9e-2": {
+          "type": "excerpt",
+          "settings": {
+            "text_size": "default"
+          }
+        },
+        "template--18483371475218__c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e-1681977757bd8b8a9e-3": {
+          "type": "read_more",
+          "settings": {
+            "button_label": "Keep reading"
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e-1681977757bd8b8a9e-0",
+        "template--18483371475218__c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e-1681977757bd8b8a9e-1",
+        "template--18483371475218__c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e-1681977757bd8b8a9e-2",
+        "template--18483371475218__c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e-1681977757bd8b8a9e-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "heading": "Blog posts",
+        "button_label": "View all",
+        "button_style": "solid",
+        "blog": "blog",
+        "image_ratio": "original",
+        "focal_point": "center center",
+        "context_image_radius": "default",
+        "subheading_size": "default",
+        "subheading_tag": "h4",
+        "heading_size": "heading_l_uppercase",
+        "heading_tag": "h3",
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "media_with_text_BTqMrU": {
+      "type": "media-with-text",
+      "blocks": {
+        "countdown_timer_W7Hak7": {
+          "type": "countdown_timer",
+          "settings": {
+            "countdown_end_date": "2024-12-15",
+            "countdown_end_time": "23:59",
+            "countdown_expiration_action": "hide_timer",
+            "countdown_complete_message": "",
+            "countdown_text": "base",
+            "countdown_text_size": "heading_m",
+            "countdown_text_color": "#000000",
+            "countdown_show_background": true,
+            "countdown_background_color": "#e8e8e8",
+            "countdown_background_gradient": "linear-gradient(180deg, rgba(235, 235, 235, 1), rgba(255, 255, 255, 1) 100%)",
+            "countdown_corner_radius": 2,
+            "countdown_show_outline": true,
+            "countdown_outline_color": "#dcdcdc",
+            "countdown_show_labels": true,
+            "countdown_labels_color": "#565656",
+            "countdown_enable_animation": true
+          }
+        },
+        "heading_QUL3hx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Avante is rising to $350 soon",
+            "heading_size": "heading_l_uppercase",
+            "heading_tag": "h2"
+          }
+        },
+        "text_rtFbBB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Don’t miss your chance to secure it at the current price of $290 – test and purchase now!</p>",
+            "dim_text": false,
+            "text_size": "default"
+          }
+        },
+        "button_m43TFc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Try For Free",
+            "button_link": "",
+            "target_blank": true,
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "countdown_timer_W7Hak7",
+        "heading_QUL3hx",
+        "text_rtFbBB",
+        "button_m43TFc"
+      ],
+      "disabled": true,
+      "settings": {
+        "link": "",
+        "target_blank": false,
+        "video_focal_point": "center center",
+        "section_width": "full-width",
+        "swap_media": false,
+        "media_size": "half",
+        "media_ratio": "original",
+        "narrow_content": false,
+        "vertical_text_alignment": "center",
+        "horizontal_text_alignment": "flex-start",
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "fill_section": false,
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "8e9a1708-04be-4188-9dc0-5192d83cbe3f": {
+      "type": "media-with-tabs",
+      "blocks": {
+        "8c72fabf-0c28-4510-8941-2315b4385141": {
+          "type": "loop_video",
+          "settings": {
+            "heading": "Preview",
+            "text": "<p>DZHUS ethical transformer clothing brand and White Mandarin natural selfcare label present “Kinship” visual project celebrating a unique synthesis of various designer objects, united by eco-inspired, surrealistic aesthetics.</p>",
+            "button_label": "",
+            "button_link": "",
+            "target_blank": false,
+            "button_style": "outlined"
+          }
+        },
+        "template--18483371475218__8e9a1708-04be-4188-9dc0-5192d83cbe3f-16819804643ac36f87-1": {
+          "type": "video",
+          "settings": {
+            "video_load": "https://youtu.be/LSLn4VV335g",
+            "video_alt": "",
+            "heading": "Watch promo",
+            "text": "<p>The art director of the collab, Irina Dzhus, has gathered multipurpose garments, interior decor, authentic ceramics, 3D-printed jewellery, cruelty-free shoes, and avant-garde pastry in one space. The unusual beauty looks were created using natural skincare and haircare products.</p>",
+            "button_label": "",
+            "button_link": "",
+            "target_blank": false,
+            "button_style": "outlined"
+          }
+        },
+        "template--18483371475218__8e9a1708-04be-4188-9dc0-5192d83cbe3f-16819804643ac36f87-0": {
+          "type": "image",
+          "settings": {
+            "heading": "Biomorphic shapes",
+            "text": "<p>The series of abstract compositions highlighting domestic scenes is implemented in white monochrome, whereas all the details speculate on corporeality and biomorphic shapes.</p>",
+            "button_label": "",
+            "button_link": "",
+            "target_blank": false,
+            "button_style": "outlined"
+          }
+        },
+        "d6e4d396-0696-4102-802e-029535f33c0f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "heading": "conscious happiness",
+            "text": "<p>The project’s ideologists, DZHUS and White Mandarin, have consolidated their creative forces to honour a complex approach to formation of a harmonious and self-sufficient personality, and to glorify synergetic elements of conscious happiness.</p>",
+            "button_label": "",
+            "button_link": "",
+            "target_blank": false,
+            "button_style": "outlined"
+          }
+        },
+        "5c3cdd18-2021-47cc-abb5-f945258ad282": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "heading": "Contributors",
+            "text": "<p>Ethical transformer clothing: @dzhus.conceptual.wear | Natural selfcare products: @market.choice.ua | Interior objects: @fainadesign | Location: @ya.vsesvit @yakusha.design | Art confectionery: @sugarylab_cakestudio | Cruelty-free footwear: @housemartin_footwear | 3D-printed jewellery: @ladalegina | Art direction, styling, casting: @irina.dzhus | Photo: @pnmrvalexey | Video: @_sergey_vovk_ | Makeup: @mua_model | Hair: @julia_danshyna   | Models: @lenka_klymenko / @sofipashkual, @wasssabidi | Styling assistants: @anatoliielgert, @darynatrukhachova, @nat_kohler_</p>",
+            "button_label": "",
+            "button_link": "",
+            "target_blank": false,
+            "button_style": "outlined"
+          }
+        }
+      },
+      "block_order": [
+        "8c72fabf-0c28-4510-8941-2315b4385141",
+        "template--18483371475218__8e9a1708-04be-4188-9dc0-5192d83cbe3f-16819804643ac36f87-1",
+        "template--18483371475218__8e9a1708-04be-4188-9dc0-5192d83cbe3f-16819804643ac36f87-0",
+        "d6e4d396-0696-4102-802e-029535f33c0f",
+        "5c3cdd18-2021-47cc-abb5-f945258ad282"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "KINSHIP / DZHUS × WHITE MANDARIN COLLAB",
+        "section_width": "wide",
+        "swap_media": true,
+        "media_size": "half",
+        "media_ratio": "square",
+        "vertical_content_position": "start",
+        "horizontal_content_position": "flex-start",
+        "narrow_content": true,
+        "subheading_size": "heading_m_uppercase",
+        "subheading_tag": "h4",
+        "tab_heading_size": "heading_xs_uppercase",
+        "tab_heading_tag": "h3",
+        "main_text_size": "default",
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "fill_section": false,
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "bef57e10-3e69-4a02-8e2d-a4b39eb65960": {
+      "type": "featured-collection-grid",
+      "blocks": {
+        "template--18483371475218__bef57e10-3e69-4a02-8e2d-a4b39eb65960-1681918734f6919e91-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bags"
+          }
+        },
+        "template--18483371475218__bef57e10-3e69-4a02-8e2d-a4b39eb65960-1681918734f6919e91-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "bottoms"
+          }
+        },
+        "ce3f8b62-8e1a-4643-888f-65fe425086d7": {
+          "type": "collection",
+          "settings": {
+            "collection": "tops"
+          }
+        },
+        "459ef671-bc7e-49c5-8187-a548e345f1f5": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses"
+          }
+        }
+      },
+      "block_order": [
+        "template--18483371475218__bef57e10-3e69-4a02-8e2d-a4b39eb65960-1681918734f6919e91-1",
+        "template--18483371475218__bef57e10-3e69-4a02-8e2d-a4b39eb65960-1681918734f6919e91-0",
+        "ce3f8b62-8e1a-4643-888f-65fe425086d7",
+        "459ef671-bc7e-49c5-8187-a548e345f1f5"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_sticky_content": true,
+        "sticky_offset": 120,
+        "subheading": "",
+        "heading": "Featured collections",
+        "button_label": "",
+        "button_link": "",
+        "target_blank": false,
+        "button_style": "solid",
+        "show_quantity": true,
+        "mobile_layout": "2",
+        "image_ratio": "narrow_portrait",
+        "image_radius": "default",
+        "subheading_size": "default",
+        "subheading_tag": "h4",
+        "heading_size": "heading_s_uppercase",
+        "heading_tag": "h3",
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "68cfae61-0ab2-4c3d-b51a-004ac5bd258b",
+    "5cae6c60-fc7b-4571-8ec1-8872eabf4902",
+    "featured_collection_tabs_9DJYnT",
+    "d3c5c5bf-c74f-43c1-81e5-845900b02860",
+    "9e3559d1-7f34-42d8-94b2-719563423cf1",
+    "edef0973-dd46-4250-bfde-cef270db9257",
+    "fdc8da2f-7c88-42ff-b437-154def46e776",
+    "c4ef2517-cae2-4faa-81fe-7b0959462104",
+    "6bcc1286-4d35-4aa6-abe3-e9110505e954",
+    "06ae9193-80ef-4180-b3f2-c37ecc324e20",
+    "d4817a6d-8f6b-47be-819b-0b80fb3b09e5",
+    "ea073e77-d9d1-4b1a-94e7-c37ae470b85f",
+    "9bbee4ad-8561-47b0-b37c-508b802a5a12",
+    "52422145-8171-4f95-b924-6ac4e76ea467",
+    "984d723c-5932-4d28-bb3a-b6fee5ab626e",
+    "37246ec4-fa8b-42ce-b51f-c249603127c8",
+    "7ab15088-499a-4db7-aa56-a03b41ab0bad",
+    "image_grid_TpGPdV",
+    "c3cdcb9a-62b3-4394-99da-bcc5ee2ac93e",
+    "media_with_text_BTqMrU",
+    "8e9a1708-04be-4188-9dc0-5192d83cbe3f",
+    "bef57e10-3e69-4a02-8e2d-a4b39eb65960"
+  ]
+}

@@ -1,0 +1,60 @@
+<custom-options class="custom-options product-form__input" {{ block.shopify_attributes }}>
+    {% liquid 
+      assign product_form_id = 'product-form-' | append: section.id
+      assign min_days = block.settings.min_number_of_days | default: 0
+        assign seconds_in_day = 86400
+        assign offset_seconds = min_days | times: seconds_in_day
+        assign now_unix = 'now' | date: '%s' | plus: 0
+        assign min_unix = now_unix | plus: offset_seconds
+        assign min_date = min_unix | date: '%Y-%m-%d'
+        assign max_date = block.settings.last_date 
+    %}
+    {% style %}
+        .tooltip-icon svg {
+            width: {{ 20 | times: settings.desktop_font_scale | divided_by: 100.0 | round | at_least: 16 }}px;
+            height: {{ 20 | times: settings.desktop_font_scale | divided_by: 100.0 | round | at_least: 16 }}px;
+        }
+        @media screen and (max-width: 920px) {
+            .tooltip-icon svg {
+                width: {{ 20 | times: settings.mobile_font_scale | divided_by: 100.0 | round | at_least: 16 }}px;
+                height: {{ 20 | times: settings.mobile_font_scale | divided_by: 100.0 | round | at_least: 16 }}px;
+            }
+        }
+    {% endstyle %}
+    <label for="{{ block.id }}-{{ block.settings.option_name }}" class="form__label">
+        {% if settings.show_label and block.settings.option_label != blank %}
+        <p class="form__label">
+            <span class="form__label-name">
+                <span class="label--{{ settings.typography_preset }}{% if settings.dim_text %} dim{% endif %}">{{ block.settings.option_label }}</span>
+                {% if block.settings.info_tooltip != blank %}
+                    <span class="tooltip-icon{% if settings.dim_text %} dim{% endif %}">
+                        {% if weight_accordion_title == 'regular' %}
+                            {% render 'icon-accordion', icon: 'help-regular' %}
+                        {% elsif weight_accordion_title == 'medium' %}
+                                {% render 'icon-accordion', icon: 'help-medium' %}
+                        {% elsif weight_accordion_title == 'bold' %}
+                                {% render 'icon-accordion', icon: 'help-bold' %}
+                        {% endif %}
+                    </span>
+                    <span class="tooltip-text color__swatch-tooltip--{{ settings.typography_preset }}">{{ block.settings.info_tooltip }}</span>
+                {% endif %}
+            </span>
+        </p>
+        {% endif %}
+        <p class="form__variants custom-date-wrapper">
+            <input type="date" class="input custom-date-input input--{{ settings.typography_preset }}" id="{{ block.id }}-{{ block.settings.option_name }}" name="properties[{{ block.settings.option_name }}]" 
+                value="{% if min_days != 0 %}{{ min_date }}{% else %}{{ 'now' | date: '%Y-%m-%d' }}{% endif %}" 
+                {% if min_days != 0 %}min="{{ min_date }}"{% endif %}
+                {% if max_date != blank %}max="{{ max_date }}"{% endif %} form="{{ product_form_id }}">
+            <span class="custom-calendar-icon tooltip-icon">
+                {% if weight_accordion_title == 'regular' %}
+                    {% render 'icon-accordion-2', icon: 'calendar-regular' %}
+                {% elsif weight_accordion_title == 'medium' %}
+                        {% render 'icon-accordion-2', icon: 'calendar-medium' %}
+                {% elsif weight_accordion_title == 'bold' %}
+                        {% render 'icon-accordion-2', icon: 'calendar-bold' %}
+                {% endif %}
+            </span>
+        </p>
+    </label>
+</custom-options>

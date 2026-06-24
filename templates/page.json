@@ -1,0 +1,94 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "settings": {
+        "heading": "",
+        "hide_heading": false,
+        "heading_size": "default",
+        "heading_tag": "h2",
+        "text_size": "default",
+        "section_width": "wide",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "image_grid_NiKKaD": {
+      "type": "image-grid",
+      "name": "t:sections.image-grid.name",
+      "settings": {
+        "page": "photos-gallery",
+        "grid_gap": 8,
+        "mobile_grid_gap": 4,
+        "section_width": "wide",
+        "items_in_a_row": 4,
+        "mobile_layout": "2",
+        "image_ratio": "original",
+        "focal_point": "center center",
+        "image_radius": "default",
+        "enable_image_zoom": true,
+        "image_zoom_style": "default",
+        "desktop_width": 100,
+        "mobile_width": 100,
+        "zoom_overlay_opacity": 100,
+        "zoom_image_ratio": "original",
+        "zoom_focal_point": "center center",
+        "show_arrow_in_mobile": false,
+        "enable_slideshow_zoom_in": true,
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "image_grid_kLYYyM": {
+      "type": "image-grid",
+      "disabled": true,
+      "name": "t:sections.image-grid.name",
+      "settings": {
+        "page": "",
+        "grid_gap": 8,
+        "mobile_grid_gap": 4,
+        "section_width": "wide",
+        "items_in_a_row": 4,
+        "mobile_layout": "2",
+        "image_ratio": "original",
+        "focal_point": "center center",
+        "image_radius": "default",
+        "enable_image_zoom": true,
+        "image_zoom_style": "default",
+        "desktop_width": 100,
+        "mobile_width": 100,
+        "zoom_overlay_opacity": 100,
+        "zoom_image_ratio": "original",
+        "zoom_focal_point": "center center",
+        "show_arrow_in_mobile": false,
+        "enable_slideshow_zoom_in": true,
+        "color_type": "default",
+        "background_color": "#ffffff",
+        "desktop_padding_top": 0,
+        "desktop_padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "image_grid_NiKKaD",
+    "image_grid_kLYYyM"
+  ]
+}
